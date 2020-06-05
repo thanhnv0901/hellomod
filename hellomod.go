@@ -6,6 +6,7 @@ import (
 
 //SayHello function
 func SayHello(name string) {
-	fmt.Println("My name is:", name)
-	fmt.Println("Hello World 3.0.0")
+	fmt.Println("Thanh's module")
+	fmt.Println("Version 3 without branch v3")
+	fmt.Println("Hello World! version: 3.0.0")
 }
