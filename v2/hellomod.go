@@ -1,4 +1,4 @@
-package hellomod
+package v2
 
 import (
 	"fmt"
@@ -7,5 +7,6 @@ import (
 //SayHello function
 func SayHello() {
 	fmt.Println("Thanh's module")
-	fmt.Println("Hello World! version: 1.0.3")
+	fmt.Println("Version 2")
+	fmt.Println("Hello World! version: 2.0.0")
 }
