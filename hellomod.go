@@ -7,5 +7,6 @@ import (
 //SayHello function
 func SayHello() {
 	fmt.Println("Thanh's module")
-	fmt.Println("Hello World! version: 1.0.3")
+	fmt.Println("Version 3")
+	fmt.Println("Hello World! version: 3.0.0")
 }
